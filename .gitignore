@@ -2,7 +2,7 @@
 ### Gradle template
 .gradle
 gradle
-build
+build/
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -30,4 +30,4 @@ gradle-app.setting
 hs_err_pid*
 
 # IDE
-.idea
+.idea/
